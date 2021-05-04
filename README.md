@@ -25,3 +25,6 @@ This is very important when we need to deal with multiple devices and screens si
 6) Building app -
 continuous integration, is a development practice in which each member of a team frequently merges their codes into the main repository branch. Each integration triggers an automated build and test workflow, allowing the team to detect and fix problems as early as possible.
 
+![1](https://user-images.githubusercontent.com/6871946/117029722-91b24100-ad1c-11eb-8084-a6f1d0a08ad6.png)
+![2](https://user-images.githubusercontent.com/6871946/117029747-9676f500-ad1c-11eb-8e8e-c5358bdad325.png)
+
