@@ -5,6 +5,8 @@ This application has two screens as below:
 1) Products list with search your favorite product
 2) Product details with its reviews and user can add review
 
+Note: Price is not updated because in api we have empty currency. Tried to use put api to add currency but same product has not been updated.
+
 Below points need to be checked
 
 1) App Resilience - 
